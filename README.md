@@ -2,7 +2,7 @@
 
 ### Structural Design Patterns
 
-- [Singleton](src/main/java/creational/singleton/README.md)
+- [Singleton](src/main/java/creational/singleton/)
 
 
 ### Behavioral Design Patterns
