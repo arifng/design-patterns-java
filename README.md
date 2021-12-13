@@ -7,4 +7,4 @@
 
 ### Behavioral Design Patterns
 
-- [Observer](src/main/java/behavioral/observer/README.md)
+- [Observer](src/main/java/behavioral/observer/)
