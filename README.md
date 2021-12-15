@@ -2,9 +2,9 @@
 
 ### Structural Design Patterns
 
-- [Singleton](src/main/java/creational/singleton/README.md)
+- [Singleton](src/main/java/creational/singleton/)
 
 
 ### Behavioral Design Patterns
 
-- [Observer](src/main/java/behavioral/observer/README.md)
+- [Observer](src/main/java/behavioral/observer/)
