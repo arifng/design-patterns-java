@@ -1,10 +1,8 @@
-package creational.abstractfactory.roundshape;
+package creational.abstractfactory.dashedshape;
 
 import creational.abstractfactory.AbstractFactory;
 import creational.abstractfactory.Shape;
 import creational.abstractfactory.ShapeType;
-import creational.abstractfactory.shape.Circle;
-import creational.abstractfactory.shape.Rectangle;
 
 /**
  * Created by Rana on 15/12/2021.

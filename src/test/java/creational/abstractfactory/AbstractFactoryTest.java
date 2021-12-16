@@ -1,7 +1,7 @@
 package creational.abstractfactory;
 
-import creational.abstractfactory.roundshape.DashedBorderCircle;
-import creational.abstractfactory.roundshape.DashedBorderRectangle;
+import creational.abstractfactory.dashedshape.DashedBorderCircle;
+import creational.abstractfactory.dashedshape.DashedBorderRectangle;
 import creational.abstractfactory.shape.Circle;
 import creational.abstractfactory.shape.Rectangle;
 import org.junit.jupiter.api.Assertions;

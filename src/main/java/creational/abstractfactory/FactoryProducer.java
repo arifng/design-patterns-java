@@ -1,6 +1,6 @@
 package creational.abstractfactory;
 
-import creational.abstractfactory.roundshape.DashedBorderShapeFactory;
+import creational.abstractfactory.dashedshape.DashedBorderShapeFactory;
 import creational.abstractfactory.shape.ShapeFactory;
 
 /**

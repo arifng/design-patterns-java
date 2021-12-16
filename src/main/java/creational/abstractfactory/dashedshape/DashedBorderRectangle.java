@@ -1,4 +1,4 @@
-package creational.abstractfactory.roundshape;
+package creational.abstractfactory.dashedshape;
 
 import creational.abstractfactory.Shape;
 
