@@ -2,7 +2,7 @@
 
 - A super-factory which creates other factories.
 - Responsible for creating a factory of related objects.
-- Each generated factory can generate objects as per [Factory pattern](src/main/java/creational/factory).
+- Each generated factory can generate objects as per [Factory pattern](../factory).
 
 #### Example
 A `AbstractFactory` class inherited by different factories (here - `ShapeFactory` and `DashedBorderShapeFactory`).
