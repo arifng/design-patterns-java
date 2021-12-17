@@ -12,3 +12,4 @@
 
 - [Observer](src/main/java/behavioral/observer)
 - [State](src/main/java/behavioral/state)
+- [Strategy](src/main/java/behavioral/strategy)
