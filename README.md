@@ -13,3 +13,4 @@
 - [Observer](src/main/java/behavioral/observer)
 - [State](src/main/java/behavioral/state)
 - [Strategy](src/main/java/behavioral/strategy)
+- [Template Method](src/main/java/behavioral/templatemethod)
