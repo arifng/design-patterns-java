@@ -5,7 +5,7 @@
 - [Factory](src/main/java/creational/factory)
 - [Abstract Factory](src/main/java/creational/abstractfactory)
 - [Singleton](src/main/java/creational/singleton)
-
+- [Prototype](src/main/java/creational/prototype)
 
 
 ### Behavioral Design Patterns

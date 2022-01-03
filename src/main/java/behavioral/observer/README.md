@@ -1,4 +1,4 @@
-## Observer Design Patter
+## Observer Design Pattern
 
 Observer Design Patter specifies communication between two side objects: `observable` and `observers`. 
 

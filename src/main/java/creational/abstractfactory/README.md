@@ -1,4 +1,4 @@
-## Abstract Factory Design Patter
+## Abstract Factory Design Pattern
 
 - A super-factory which creates other factories.
 - Responsible for creating a factory of related objects.

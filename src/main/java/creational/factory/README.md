@@ -1,4 +1,4 @@
-## Factory Design Patter
+## Factory Design Pattern
 
 - Provides a way to create instance without exposing creation logic.
 - A Factory class should have a method which take input and return different instance based on input.

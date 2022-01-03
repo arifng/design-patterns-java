@@ -1,4 +1,4 @@
-## Strategy Design Patter
+## Strategy Design Pattern
 
 - A class behavior or its algorithm can be changed at run time.
 

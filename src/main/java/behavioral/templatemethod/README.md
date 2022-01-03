@@ -1,4 +1,4 @@
-## Template Method Design Patter
+## Template Method Design Pattern
 
 - Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. 
 

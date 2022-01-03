@@ -1,6 +1,6 @@
-## Singleton Design Patter
+## Singleton Design Pattern
 
-Singleton Design Patter ensures there should be only one instance of a class.
+Singleton Design Pattern ensures there should be only one instance of a class.
 
 #### Remarks
 
