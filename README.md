@@ -5,6 +5,7 @@
 - [Factory](src/main/java/creational/factory)
 - [Abstract Factory](src/main/java/creational/abstractfactory)
 - [Singleton](src/main/java/creational/singleton)
+- [Builder](src/main/java/creational/builder)
 - [Prototype](src/main/java/creational/prototype)
 
 
