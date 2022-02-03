@@ -7,6 +7,7 @@
 - [Singleton](src/main/java/creational/singleton)
 - [Builder](src/main/java/creational/builder)
 - [Prototype](src/main/java/creational/prototype)
+- [Object Pool](src/main/java/creational/objectpool)
 
 
 ### Behavioral Design Patterns
