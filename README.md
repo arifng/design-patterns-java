@@ -1,6 +1,6 @@
 # Design Patterns in Java
 
-### Structural Design Patterns
+### Creational Design Patterns
 
 - [Factory](src/main/java/creational/factory)
 - [Abstract Factory](src/main/java/creational/abstractfactory)
@@ -9,6 +9,9 @@
 - [Prototype](src/main/java/creational/prototype)
 - [Object Pool](src/main/java/creational/objectpool)
 
+### Structural Design Patterns
+
+- [Proxy](src/main/java/structural/proxy)
 
 ### Behavioral Design Patterns
 
