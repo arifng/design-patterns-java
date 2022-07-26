@@ -14,8 +14,6 @@ thread can access these method at a time.
 NB - this is very simple object pool method. In real life, pool may create object when it initialized or pool may have 
 constants like maximum no of object creation etc.
 
-Receiving news is what changes the state of the news agency, and it causes the channels to be notified.
-
 #### Remarks
 
 - Create abstract `ObjectPool<T>` class with private list of objects (here, set of availables and uses object)
