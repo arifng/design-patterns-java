@@ -11,6 +11,7 @@
 
 ### Structural Design Patterns
 
+- [Adapter](src/main/java/structural/adapter)
 - [Proxy](src/main/java/structural/proxy)
 
 ### Behavioral Design Patterns
