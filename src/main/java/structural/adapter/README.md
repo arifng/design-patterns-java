@@ -9,7 +9,7 @@ features but exposing a different interface.
 #### Example
 
 An Ethernet to USB adapter. Lets say, we have an Ethernet interface on one end and USB on the other end. We want to use 
-Ethernet as USB interface. Since both are incompatible with each other, so we use an adapter that converts Ethernet to 
+Ethernet as USB interface. Since both are incompatible with each other, so we will use an adapter that converts Ethernet to 
 USB.
 
 #### Remarks
